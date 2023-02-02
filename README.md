@@ -1,2 +1,2 @@
 # AnisTile
-Tiled anisotropy image analysis
+Matlab code to perform tiled anisotropy image analysis as reported in Jin et al. (submitted)
